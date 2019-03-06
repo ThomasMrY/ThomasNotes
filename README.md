@@ -2,7 +2,7 @@
 
 This is a repository of my own learning notes, also could be a tutorial. I will I will continue to update this new repository, which may include machine learning, deep learning, probability theory, information theory, pytorch tensorflow and even numpy etc.
 Welcome star and fork. I hope this note to be an open platform that we can learn from each other. Thanks!!
-![Image](Images/My.png)
+![Image](Images/My.jpg)
 
 
 ## Requirements
